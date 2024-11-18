@@ -5,7 +5,7 @@
 <div size='20px'> Hi! My name is Migue. Thank You for visiting my GitHub Profile
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://w7.pngwing.com/pngs/725/442/png-transparent-snoopy-charlie-brown-peanuts-cartoon-others-white-cartoon-fictional-character-thumbnail.png" />
 
 -  I’m a System Engineering student
 
